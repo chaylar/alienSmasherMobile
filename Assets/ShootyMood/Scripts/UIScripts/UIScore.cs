@@ -5,17 +5,29 @@ using System;
 using System.Runtime.CompilerServices;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 using Zenject;
 
 namespace Assets.ShootyMood.Scripts.UIScripts
 {
     public class UIScore : MonoBehaviour, IInitializable, IDisposable
     {
+        [SerializeField] private ParticleSystem scoreParticle;
         [SerializeField] private TextMeshProUGUI scoreText;
+
+        [SerializeField] private Image effectPositonImage;
+
         [Inject] private WavesConfig wavesConfig;
         [Inject] private SignalBus signalBus;
 
         private int score = 0;
+
+        private void Start()
+        {
+            scoreParticle.gameObject.SetActive(false);
+            var starPosition = Camera.main.ScreenToWorldPoint(effectPositonImage.transform.position);
+            scoreParticle.transform.position = new Vector3(starPosition.x, starPosition.y, 0f);
+        }
 
         public void Initialize()
         {
@@ -44,6 +56,17 @@ namespace Assets.ShootyMood.Scripts.UIScripts
 
             score = score < 0 ? 0 : score;
             scoreText.text = score.ToString();
+
+            if(score >= 100)
+            {
+                if(!scoreParticle.gameObject.activeSelf)
+                    scoreParticle.gameObject.SetActive(true);
+            }
+            else
+            {
+                if(scoreParticle.gameObject.activeSelf)
+                    scoreParticle.gameObject.SetActive(false);
+            }
         }
 
         private void OnGameStarted(GameStarted evt)

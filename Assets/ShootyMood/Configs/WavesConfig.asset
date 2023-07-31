@@ -12,48 +12,48 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3f17cdc89574949a1e680d835cdf84c, type: 3}
   m_Name: WavesConfig
   m_EditorClassIdentifier: 
-  startLeftTime: 600
+  startLeftTime: 30
   scoreAddition: 1
   waveConfigs:
-  - waveSpawnCount: 10
+  - waveSpawnCount: 2
     spawnDuration: 4
     iterationSpawnCount: 1
-    timeAdditionOnDeath: 2
+    timeAdditionOnDeath: 1
     friendlyRatio: 0.1
     mobAttackDurationDecreaseAmount: 0
     mobEscapeDurationDecreaseAmount: 0
-  - waveSpawnCount: 10
+  - waveSpawnCount: 2
     spawnDuration: 3.6
     iterationSpawnCount: 1
-    timeAdditionOnDeath: 4
+    timeAdditionOnDeath: 0.6
     friendlyRatio: 0.2
     mobAttackDurationDecreaseAmount: 0.1
     mobEscapeDurationDecreaseAmount: 0.1
-  - waveSpawnCount: 10
+  - waveSpawnCount: 3
     spawnDuration: 2.8
     iterationSpawnCount: 1
-    timeAdditionOnDeath: 4
+    timeAdditionOnDeath: 0.6
     friendlyRatio: 0.3
     mobAttackDurationDecreaseAmount: 0.15
     mobEscapeDurationDecreaseAmount: 0.15
-  - waveSpawnCount: 10
+  - waveSpawnCount: 4
     spawnDuration: 2
     iterationSpawnCount: 1
-    timeAdditionOnDeath: 4
+    timeAdditionOnDeath: 0.4
     friendlyRatio: 0.35
     mobAttackDurationDecreaseAmount: 0.2
     mobEscapeDurationDecreaseAmount: 0.2
-  - waveSpawnCount: 20
+  - waveSpawnCount: 4
     spawnDuration: 1.6
     iterationSpawnCount: 1
-    timeAdditionOnDeath: 4
+    timeAdditionOnDeath: 0.4
     friendlyRatio: 0.6
     mobAttackDurationDecreaseAmount: 0.35
     mobEscapeDurationDecreaseAmount: 0.35
   - waveSpawnCount: 10
     spawnDuration: 1.2
     iterationSpawnCount: 1
-    timeAdditionOnDeath: 4
+    timeAdditionOnDeath: 0.4
     friendlyRatio: 0.65
     mobAttackDurationDecreaseAmount: 0.4
     mobEscapeDurationDecreaseAmount: 0.4
