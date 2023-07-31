@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: 0b29984fafe92304da17597cdb6da1c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5027594639939624370
+    second: Duckverse 1.1 Spritesheet_0
+  - first:
+      213: 1983911429556505719
+    second: Duckverse 1.1 Spritesheet_1
+  - first:
+      213: -2926824153821106865
+    second: Duckverse 1.1 Spritesheet_2
+  - first:
+      213: -2786076204749351169
+    second: Duckverse 1.1 Spritesheet_3
+  - first:
+      213: -4271047345897633170
+    second: Duckverse 1.1 Spritesheet_4
+  - first:
+      213: 2472930531539306890
+    second: Duckverse 1.1 Spritesheet_5
+  - first:
+      213: -7576633979721048108
+    second: Duckverse 1.1 Spritesheet_6
+  - first:
+      213: 990053417570070214
+    second: Duckverse 1.1 Spritesheet_7
+  - first:
+      213: 1182295774225461086
+    second: Duckverse 1.1 Spritesheet_8
+  - first:
+      213: 2148266317362029042
+    second: Duckverse 1.1 Spritesheet_9
+  - first:
+      213: -6590632556802511168
+    second: Duckverse 1.1 Spritesheet_10
+  - first:
+      213: 2157217093446657851
+    second: Duckverse 1.1 Spritesheet_11
+  - first:
+      213: 2961299684752647823
+    second: Duckverse 1.1 Spritesheet_12
+  - first:
+      213: -5142410142438697400
+    second: Duckverse 1.1 Spritesheet_13
+  - first:
+      213: 9162279887990276178
+    second: Duckverse 1.1 Spritesheet_14
+  - first:
+      213: -6192156142496871751
+    second: Duckverse 1.1 Spritesheet_15
+  - first:
+      213: 1979975017440058503
+    second: Duckverse 1.1 Spritesheet_16
+  - first:
+      213: 1699195844217944368
+    second: Duckverse 1.1 Spritesheet_17
+  - first:
+      213: 343848834145131375
+    second: Duckverse 1.1 Spritesheet_18
+  - first:
+      213: -6188636318890233225
+    second: Duckverse 1.1 Spritesheet_19
+  - first:
+      213: -4909052639467314047
+    second: Duckverse 1.1 Spritesheet_20
+  - first:
+      213: -7465773445904528563
+    second: Duckverse 1.1 Spritesheet_21
+  - first:
+      213: -6450766059902371785
+    second: Duckverse 1.1 Spritesheet_22
+  - first:
+      213: 7167205336633851894
+    second: Duckverse 1.1 Spritesheet_23
+  - first:
+      213: 8113916243480907196
+    second: Duckverse 1.1 Spritesheet_24
+  - first:
+      213: 21039800258046760
+    second: Duckverse 1.1 Spritesheet_25
+  - first:
+      213: -4055466234973972041
+    second: Duckverse 1.1 Spritesheet_26
+  - first:
+      213: -3933243012515287994
+    second: Duckverse 1.1 Spritesheet_27
+  - first:
+      213: -553783018596631944
+    second: Duckverse 1.1 Spritesheet_28
+  - first:
+      213: 227689350754274994
+    second: Duckverse 1.1 Spritesheet_29
+  - first:
+      213: -8946747500954341561
+    second: Duckverse 1.1 Spritesheet_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1846
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd524c00ba95c540800000000000000
+      internalID: 5027594639939624370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1846
+        width: 393
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c8d881fe4488b10800000000000000
+      internalID: 1983911429556505719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1846
+        width: 392
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4da57760f4d167d0800000000000000
+      internalID: -2926824153821106865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1846
+        width: 394
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff61fbaf37ed559d0800000000000000
+      internalID: -2786076204749351169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1846
+        width: 393
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a85e061113ab4c0800000000000000
+      internalID: -4271047345897633170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1846
+        width: 393
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a894e9e573d915220800000000000000
+      internalID: 2472930531539306890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 1846
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df9295c9836ad690800000000000000
+      internalID: -7576633979721048108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1382
+        width: 391
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceece676506dbd00800000000000000
+      internalID: 990053417570070214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1382
+        width: 393
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f672a1ebb586010800000000000000
+      internalID: 1182295774225461086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1382
+        width: 392
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1ec4965dc20dd10800000000000000
+      internalID: 2148266317362029042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1382
+        width: 394
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce69a6bb9e5984a0800000000000000
+      internalID: -6590632556802511168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1382
+        width: 393
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37e94e5489ffed10800000000000000
+      internalID: 2157217093446657851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1382
+        width: 393
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f866827af56a81920800000000000000
+      internalID: 2961299684752647823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 1382
+        width: 391
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846539a983d72a8b0800000000000000
+      internalID: -5142410142438697400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 391
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250cd58a305f62f70800000000000000
+      internalID: 9162279887990276178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 916
+        width: 393
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba88bcbbca011aa0800000000000000
+      internalID: -6192156142496871751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 916
+        width: 392
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c99aab9c84a7b10800000000000000
+      internalID: 1979975017440058503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 916
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0393e6a1e91c49710800000000000000
+      internalID: 1699195844217944368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 916
+        width: 393
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b17af51b895c400800000000000000
+      internalID: 343848834145131375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 916
+        width: 393
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77277788e0c8d1aa0800000000000000
+      internalID: -6188636318890233225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 916
+        width: 391
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1846bd832aa8fdbb0800000000000000
+      internalID: -4909052639467314047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b01573b9e346890800000000000000
+      internalID: -7465773445904528563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 391
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7387f5632764a76a0800000000000000
+      internalID: -6450766059902371785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 393
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff385ab747077360800000000000000
+      internalID: 7167205336633851894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 451
+        width: 393
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd83f585db6a9070800000000000000
+      internalID: 8113916243480907196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 811
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ba68c369fba4000800000000000000
+      internalID: 21039800258046760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 451
+        width: 392
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b919c132f618b7c0800000000000000
+      internalID: -4055466234973972041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 451
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c2dbfb1505a69c0800000000000000
+      internalID: -3933243012515287994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 451
+        width: 393
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a77e557419058f0800000000000000
+      internalID: -553783018596631944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 0
+        width: 1240
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be09d6124ae82300800000000000000
+      internalID: 227689350754274994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckverse 1.1 Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 451
+        width: 393
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa08ebc84c6d380800000000000000
+      internalID: -8946747500954341561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 69c979685f4e5a44aa3431132adf11b3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Duckverse 1.1 Spritesheet_0: 5027594639939624370
+      Duckverse 1.1 Spritesheet_1: 1983911429556505719
+      Duckverse 1.1 Spritesheet_10: -6590632556802511168
+      Duckverse 1.1 Spritesheet_11: 2157217093446657851
+      Duckverse 1.1 Spritesheet_12: 2961299684752647823
+      Duckverse 1.1 Spritesheet_13: -5142410142438697400
+      Duckverse 1.1 Spritesheet_14: 9162279887990276178
+      Duckverse 1.1 Spritesheet_15: -6192156142496871751
+      Duckverse 1.1 Spritesheet_16: 1979975017440058503
+      Duckverse 1.1 Spritesheet_17: 1699195844217944368
+      Duckverse 1.1 Spritesheet_18: 343848834145131375
+      Duckverse 1.1 Spritesheet_19: -6188636318890233225
+      Duckverse 1.1 Spritesheet_2: -2926824153821106865
+      Duckverse 1.1 Spritesheet_20: -4909052639467314047
+      Duckverse 1.1 Spritesheet_21: -7465773445904528563
+      Duckverse 1.1 Spritesheet_22: -6450766059902371785
+      Duckverse 1.1 Spritesheet_23: 7167205336633851894
+      Duckverse 1.1 Spritesheet_24: 8113916243480907196
+      Duckverse 1.1 Spritesheet_25: 21039800258046760
+      Duckverse 1.1 Spritesheet_26: -4055466234973972041
+      Duckverse 1.1 Spritesheet_27: -3933243012515287994
+      Duckverse 1.1 Spritesheet_28: -553783018596631944
+      Duckverse 1.1 Spritesheet_29: 227689350754274994
+      Duckverse 1.1 Spritesheet_3: -2786076204749351169
+      Duckverse 1.1 Spritesheet_30: -8946747500954341561
+      Duckverse 1.1 Spritesheet_4: -4271047345897633170
+      Duckverse 1.1 Spritesheet_5: 2472930531539306890
+      Duckverse 1.1 Spritesheet_6: -7576633979721048108
+      Duckverse 1.1 Spritesheet_7: 990053417570070214
+      Duckverse 1.1 Spritesheet_8: 1182295774225461086
+      Duckverse 1.1 Spritesheet_9: 2148266317362029042
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

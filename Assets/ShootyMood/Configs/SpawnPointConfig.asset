@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 476c47527dd34e33b5ab2247e25855ad, type: 3}
+  m_Name: SpawnPointConfig
+  m_EditorClassIdentifier: 
+  enemyModelWidth: 1
+  enemyModelHeight: 1
+  spawnPosDeviation: 0
+  spawnDuration: 0.32
