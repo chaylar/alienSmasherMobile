@@ -122,7 +122,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterModel: {fileID: 6794637714996302895}
-  deathParticle: {fileID: 2141872380784138796, guid: 81af39411b9c0074fb7120cf53edda91, type: 3}
+  deathParticle: {fileID: 9157105887711914197, guid: e3069326ec007a64d9039631848dccac, type: 3}
 --- !u!61 &4270418086091753777
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -162,4 +162,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterModel: {fileID: 6794637714996302895}
-  escapeParticle: {fileID: 1707406610436744, guid: 0ea6efbf8471ee44dbfff0eaa22d3d04, type: 3}
+  escapeParticle: {fileID: 2141872380784138796, guid: 81af39411b9c0074fb7120cf53edda91, type: 3}
