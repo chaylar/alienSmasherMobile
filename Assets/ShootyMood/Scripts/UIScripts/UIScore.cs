@@ -78,6 +78,7 @@ namespace Assets.ShootyMood.Scripts.UIScripts
         private void OnPlayerKilled(PlayerKilled evt)
         {
             SaveManager.SaveScore(score);
+            scoreParticle.gameObject.SetActive(false);
         }
         
     }
