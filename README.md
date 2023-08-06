@@ -1,6 +1,7 @@
 # alienSmasherMobile
 
 A clicker type mobile game
+https://play.google.com/store/apps/details?id=com.Cag.AlienSmasher
 
 Included Assets & Libraries
 
