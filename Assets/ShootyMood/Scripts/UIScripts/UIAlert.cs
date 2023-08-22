@@ -33,10 +33,8 @@ namespace Assets.ShootyMood.Scripts.UIScripts
 
         private void OnEnemyKilled(EnemyKilled evt)
         {
-            Debug.Log("AMK!");
             if(evt.isFriendly)
             {
-                Debug.Log("AMKIKI!");
                 frienlyKillImage.color = frienlyKillAlertStartingColor;
                 frienlyKillImage.gameObject.SetActive(true);
                 frienlyKillImage.DOColor(new Color(frienlyKillAlertStartingColor.r, frienlyKillAlertStartingColor.g, frienlyKillAlertStartingColor.b, 0f), 1f).OnComplete(OnFrienlyKillAlertComplete);

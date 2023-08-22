@@ -16,8 +16,6 @@ namespace ShootyMood.Scripts.Handlers
 
         public void Initialize()
         {
-            //TODO : Get scene 
-            //TODO : Generate EnemySpawnPosition & Start spawning
             GenerateSpawnPoints();
         }
 

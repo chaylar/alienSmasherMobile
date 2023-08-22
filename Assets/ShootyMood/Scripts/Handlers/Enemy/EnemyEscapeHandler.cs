@@ -16,7 +16,6 @@ namespace Assets.ShootyMood.Scripts.Handlers.Enemy
 
         [Inject] private SignalBus signalBus;
 
-        //
         private float dissapearTimer = 0;
 
         //TODO : Optimize!
@@ -93,30 +92,5 @@ namespace Assets.ShootyMood.Scripts.Handlers.Enemy
             signalBus.Fire(new EnemyEscaped());
             Destroy(gameObject);
         }
-
-
-        //void FixedUpdate()
-        //{
-        //    //if (characterModel.IsDead || characterModel.IsDying)
-        //    //{
-        //    //    return;
-        //    //}
-
-        //    //if(dissapearTimer >= characterModel.EscapeTime)
-        //    //{
-        //    //    characterModel.IsDead = true;
-        //    //    var position = gameObject.transform.position;
-
-        //    //    if (escapeParticle != null)
-        //    //    {
-        //    //        Instantiate(escapeParticle, position, Quaternion.identity);
-        //    //    }
-
-        //    //    signalBus.Fire(new EnemyEscaped());
-        //    //    Destroy(gameObject);
-        //    //}
-
-        //    //dissapearTimer += Time.deltaTime;
-        //}
     }
 }

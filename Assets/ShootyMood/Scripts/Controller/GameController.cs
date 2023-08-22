@@ -30,7 +30,6 @@ namespace ShootyMood.Scripts.Handlers
         [Inject] private SpawnPointConfig spConfig;
         [Inject] private PlayerHitHandler playerHealthHandler;
         
-        //
         private int waveIndex = 0;
         private int currentWaveSpawnCount = 0;
         private int iterationSpawnCount = 1;
@@ -45,6 +44,10 @@ namespace ShootyMood.Scripts.Handlers
         private float screenMaxX;
         private float screenMaxY;
         private float minEscapeDistance;
+
+        private const int totalPathPoints = 2;
+        private const float pathDeviationCalParamX = 4f;
+        private const float pathDeviationCalParamY = 8f;
 
         private void Start()
         {
@@ -172,7 +175,6 @@ namespace ShootyMood.Scripts.Handlers
                 newSpawn.transform.position = spawnPos;
                 positionSpawnService.SpawnOnPos(ref sp, newSpawn);
 
-                //TODO : 
                 newSpawn.GetComponent<EnemyEscapeHandler>().DoPath(pathList.ToArray());
                 signalBus.Fire(new EnemySpawned());
 
@@ -180,7 +182,6 @@ namespace ShootyMood.Scripts.Handlers
             }
 
             currentWaveSpawnCount++;
-            //
             OrganizeCurrentWave(GetCurrentWave());
         }
 
@@ -220,11 +221,10 @@ namespace ShootyMood.Scripts.Handlers
             }
 
             List<Vector3> pathList = new List<Vector3>();
-            int totalPoints = 2;
-            float xDeviationMax = xMax / 4;
-            float yDeviationMax = yMax / 8;
-            Vector3 calculationDraw = (selectedPos - currentPos) / (totalPoints + 1);
-            for (int i = 0; i < totalPoints; i++)
+            float xDeviationMax = xMax / pathDeviationCalParamX;
+            float yDeviationMax = yMax / pathDeviationCalParamY;
+            Vector3 calculationDraw = (selectedPos - currentPos) / (totalPathPoints + 1);
+            for (int i = 0; i < totalPathPoints; i++)
             {
                 Vector3 pathPoint = Vector3.zero;
 
@@ -236,7 +236,6 @@ namespace ShootyMood.Scripts.Handlers
             }
 
             pathList.Add(selectedPos);
-            //transform.DOPath(pathList.ToArray(), escapeTime, PathType.CatmullRom).OnComplete(DestroyEnemy);
             return pathList;
         }
     }

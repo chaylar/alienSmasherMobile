@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using ShootyMood.Scripts.Models;
-using Unity.VisualScripting;
 using UnityEngine;
 
 namespace ShootyMood.Scripts.Config.Wave
